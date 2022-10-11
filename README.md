@@ -11,7 +11,7 @@ I am John, I am a third year student studying a BSc (Honours) Computing degree a
 # <h2>Interests</h2>
 
 # <h3>Motorbikes and Country walks</h3>
-I own a couple of motorbikes. I find nothing clears the head like a motorbike ride. I either head up the Wicklow mountains on the bike for a walk in the beautiful garden of Ireland or I have loads of family in Co Clare. I head down to Clare on the motorbike and stay with family. Its such a lovely change to the big city.
+I own a couple of motorbikes. I find nothing clears the head like a motorbike ride. I either head up the Wicklow mountains on the bike for a walk in the beautiful garden of Ireland or I have loads of family in Co Clare so I head down to Clare on the motorbike and stay with family whilst going for walks in the beautiful west coast. Its such a lovely change to the big city.
 
 # <h3>History</h3>
 I am obsessed by history. I read books on historical figures, major historical events and important wars and battles. I also watch copious amounts of documentaries on those subjects.

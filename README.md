@@ -1,6 +1,6 @@
-# John-Ringrose
+# <h1>John-Ringrose</h1>
 
-# Who am I?
+# <h2>Who am I?</h2>
 
 I am John, I am a third year student studying a BSc (Honours) Computing degree at National College of Ireland. I worked for years as an assistant director in the film industry, but the industry fell apart in the mid to late noughties. I struggle to find direction/career in life until I came back to Ireland for family reasons and I did a manual software testing cert course. Whilst there, my lecturer introduced us to basic programming. And I must admit I loved it, I loved the challenge of getting my head around object orientated programming. It felt like the ultimate crossword puzzle for challenging the brain.
 
@@ -8,7 +8,7 @@ I am John, I am a third year student studying a BSc (Honours) Computing degree a
  
  
 
-# Interests
+# <h2>Interests</h2>
 
 # Motorbikes and Country walks
 I own a couple of motorbikes. I find nothing clears the head like a motorbike ride. I either head up the Wicklow mountains on the bike for a walk in the beautiful garden of Ireland or I have loads of family in Co Clare. I head down to Clare on the motorbike and stay with family. Its such a lovely change to the big city.

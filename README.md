@@ -16,7 +16,7 @@ I own a couple of motorbikes. I find nothing clears the head like a motorbike ri
 # <h3>History</h3>
 I am obsessed by history. I read books on historical figures, major historical events and important wars and battles. I also watch copious amounts of documentaries on those subjects.
 
-# <h3>Future Goals</h3>
+# <h2>Future Goals</h2>
 * When qualified with a degree, I would also like to add Comptia security+ to my resume and along with other cyber security certificates.
 * Work in the industry in Cyber security.
 * Spend the rest of my life expanding my knowledge of information technology and History.

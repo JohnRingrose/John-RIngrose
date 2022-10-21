@@ -18,7 +18,7 @@ I am obsessed by history. I read books on historical figures, major historical e
 
 # <h2>Future Goals</h2>
 * When qualified with a degree, I would also like to add Comptia security+ to my CV and along with many other cyber security certificates.
-* My parents are from Clare and Limerick and I would love to relocate there, so I can live a country life..had enough of big city lviing.
+* My parents are from Clare and Limerick and hopefully someday I would love to relocate there, so I can live a country life..had enough of big city lviing.
 * Work in the industry in Cyber security.
 * Spend the rest of my life expanding my knowledge of information technology and History.
 
